@@ -4,7 +4,7 @@
       <strong>Hi, I’m Akshita Rana👋</strong>
     </td>
     <td align="center" width="70%">
-      <h1>Data Science Trainer | Applied Data Analytics</h1>
+      <h1>Data Analyst| Applied Data Analytics</h1>
     </td>
   </tr>
 </table>
@@ -21,10 +21,10 @@
   <a href="https://www.linkedin.com/in/kumod-sharma-ab999124b/">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.kaggle.com/kdsharma">
+  <a href="https://www.kaggle.com/arana"
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=black" alt="Kaggle Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/Kumod_Sharma?hr_r=1">
+  <a href="https://www.hackerrank.com/Akshita_Rana?hr_r=1">
     <img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
   </a></div></div>
 
@@ -33,11 +33,11 @@
 <h1>About Me ❤️</h1>
 
 - 💡 Data Science Enthusiast with a background in Mathematics.
-- 🎓 Accomplished the requirements for a prestigious Diploma in Data Science.
-- 🏢 Currently employed as a Data Analyst in a Marketing Research company.
+- 🎓 Accomplished the requirements for a prestigious skills in Data Analyst.
+- 🏢 Currently intern as a Data Analyst in Brillica Services.
 - ⚡ In my free time, I love to solve problems on HackerRank and read tech articles.
 - 😆 Fun fact: If data science were a sport, I'd be the MVP of finding patterns in numbers and predicting the future!
-- 📫 How to reach me: <a href="mailto:kumod.aws@gmail.com">kumod.aws@gmail.com</a> | or connect with me on <a href="https://www.linkedin.com/in/kumod-sharma/">My LinkedIn.</a>
+- 📫 How to reach me: <a href="mailto:akshitarana585@gmail.com">akshitarana585@gmail.com</a> | or connect with me on <a href="https://www.linkedin.com/in/akshitarana585/">My LinkedIn.</a>
 - <p>✍️ Check out my blogs on topics related to data science. You can find them on my <a href="https://medium.com/@kumod.aws">blog profile</a>.</p>
 
 <br>
@@ -53,4 +53,4 @@
 # :fire: My Stats:
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kumod007&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akshitarana2911&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
